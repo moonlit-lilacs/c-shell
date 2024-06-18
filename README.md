@@ -1,1 +1,2 @@
 # c-shell
+A c-shell initially based off of Stephen Brennan's article "Write a Shell in C" and expanded thereafter by me. All credit for the framework of the initial shell goes to Brennan. Additions are purely my own.
